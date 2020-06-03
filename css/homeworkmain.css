@@ -1,0 +1,22 @@
+header {
+    height: 400px;
+    background-color: rgb(48, 48, 48);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    }
+
+h1 {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+footer {
+    background-color: rgb(48, 48, 48);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
